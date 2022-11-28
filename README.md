@@ -40,7 +40,7 @@ MongoDB database
  
 
  ## Overview 
-[![Watch the video](https://github.com/GavrielleGarcia/Challenge-14-BlogSite/tree/main/public/assets)
+[![Watch the video](https://github.com/GavrielleGarcia/Challenge-21-BookSearcher/tree/main/assets)
 
  
 ## Contributing 
